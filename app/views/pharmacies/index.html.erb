@@ -1,0 +1,10 @@
+<h1>Pharmacies</h1>
+
+<ul>
+  <% @pharmacies.each do |pharmacy| %>
+    <li>
+      <h2><%= pharmacy.name %></h2>
+      <p><%= pharmacy.address %></p>
+    </li>
+  <% end %>
+</ul>
