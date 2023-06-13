@@ -24,9 +24,7 @@ end
 
 
 
-# API Key: RqTxG01yKopt39SgtfaGK7voorN5PtTG
 
 
 
-# /Users/nasser/Desktop/Limit_meet/pharmacy_locator/app/service/app/services/walgreens_api.rb
-# /Users/nasser/Desktop/Limit_meet/pharmacy_locator/app/service/walgreens_api.rb
+
